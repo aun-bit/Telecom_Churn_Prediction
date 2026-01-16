@@ -63,3 +63,19 @@ pip install -r requirements.txt
 python src/train.py
 python src/evaluation.py
 python src/inference.py
+
+📈 Visualizations
+
+Accuracy & F1 Score comparison
+
+Confusion Matrix (Random Forest)
+
+ROC Curve (Random Forest)
+
+🌍 SDG Alignment
+
+SDG 8: Decent Work & Economic Growth
+
+SDG 9: Industry, Innovation, and Infrastructure
+
+SDG 12: Responsible Consumption and Production
